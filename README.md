@@ -1,7 +1,8 @@
 # Kovaak's Scenario Categorization Guide
 
 ## Overview
-This guide provides a comprehensive system for categorizing Kovaak's aim trainer scenarios (.sce files) based on their properties and mechanics.
+General overview of .sce files and how they behave and may lead to certain identification of scenario categories and subcategories, as well as nevermiss, reflex, dodge etc.
+Generally always first check the name of the scenarios!
 
 ## Primary Categories
 ### 1. Clicking
